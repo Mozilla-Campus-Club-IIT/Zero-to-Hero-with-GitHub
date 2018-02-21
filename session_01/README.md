@@ -14,7 +14,7 @@ This is a practical session to help the **beginners** to get familiar with GitHu
 7) My first **Push**.
 8) My first **PR**.
 
-
+<br><br><br>
 
 ### What is **GitHub**?.
 GitHub is a web-based hosting service for version control using git. It is mostly used for computer code. It offers all of the distributed version control and source code management functionality of Git as well as adding its own features.
