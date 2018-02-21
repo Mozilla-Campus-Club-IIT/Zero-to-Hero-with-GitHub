@@ -5,7 +5,7 @@
 
 This is a practical session to help the **beginners** to get familiar with GitHub. This session is based on following activities.
 
-[1) What is **GitHub**?](#What is **GitHub**?.)
+1) What is **GitHub**?.
 2) My first **GitHub Repository**.
 3) My first **Star**.
 4) My first **Fork**.
