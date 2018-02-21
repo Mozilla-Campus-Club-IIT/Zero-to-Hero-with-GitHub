@@ -1,4 +1,4 @@
-![header](https://github.com/Mozilla-Campus-Club-IIT/Zero-to-Hero-with-GitHub/session_01/blob/master/sources/session01.png)
+![header](sources/session01.png)
 
 
 # Zero-to-Hero-with-GitHub
