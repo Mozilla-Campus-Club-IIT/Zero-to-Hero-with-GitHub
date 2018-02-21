@@ -27,4 +27,4 @@ GitHub is a web-based hosting service for version control using git. It is mostl
 <br>
 
 ## My first **GitHub Repository**.
-![RepositoryScreenShot](sources/session01.png)
+![RepositoryScreenShot](sources/Repo_MakingSS.png)
