@@ -19,6 +19,6 @@ This is a practical session to help the **beginners** to get familiar with GitHu
 ### What is **GitHub**?.
 GitHub is a web-based hosting service for version control using git. It is mostly used for computer code. It offers all of the distributed version control and source code management functionality of Git as well as adding its own features.
 
-**Founder:** Tom Preston-Werner
-**Founded:** 2008
-**Headquarters:** San Francisco, California, United States
+**Founder:** Tom Preston-Werner<br>
+**Founded:** 2008<br>
+**Headquarters:** San Francisco, California, United States<br>
