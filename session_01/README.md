@@ -38,7 +38,9 @@ GitHub is a web-based hosting service for version control using git. It is mostl
 ## My first **GitHub Clone and Download**
 ![RepositoryScreenShot](sources/clone_download.png)
 
-## **To use Git you need to install git in your computer**
+
+
+## **To use git you need to install git on your computer**
 Before you start with git commands you have to make sure that you have install git in your computer. You can simply run following command to check whether you have installed git into your computer or not.
 
 ```
