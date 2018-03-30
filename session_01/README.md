@@ -28,3 +28,31 @@ GitHub is a web-based hosting service for version control using git. It is mostl
 
 ## My first **GitHub Repository**.
 ![RepositoryScreenShot](sources/Repo_MakingSS.png)
+
+## My first **GitHub Star and Fork**
+
+## My first **GitHub Clone and Download**
+
+## **To use Git you need to install git in your computer**
+
+## My first **GitHub Clone through terminal/command prompt**
+Once you fork and make an own copy of the project you can clone it. To clone a project you have to copy the project URL as I have shown in the above sample screenshot. Then you have to open a terminal window (for mac users) / command promt(for windows users).
+
+After that as the first step your have to navigate in to the directory where you planing to store your project related stuff.
+
+```
+cd project_directory
+git clone **project URL which you copied from github project**
+
+```
+
+
+## My first **GitHub Commit**
+ 
+## My first **GitHub Push**
+
+## My first **GitHub Pull Request**
+
+```
+
+```
